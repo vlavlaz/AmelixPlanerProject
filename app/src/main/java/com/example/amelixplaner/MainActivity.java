@@ -15,4 +15,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(binding.getRoot());
     }
 }
-//ddffgdf
+//ddff
+// пидоры
+// dasdasd
