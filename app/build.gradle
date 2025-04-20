@@ -5,7 +5,9 @@ plugins {
 android {
     namespace 'com.example.amelixplaner'
     compileSdk 35
-
+    buildFeatures{
+        viewBinding true
+    }
     defaultConfig {
         applicationId "com.example.amelixplaner"
         minSdk 26
